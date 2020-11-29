@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michał Narecki</title>
+    <link>https://mnarecki.github.io/</link>
+    <description>Recent content on Michał Narecki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://mnarecki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://mnarecki.github.io/contact/</link>
+      <pubDate>Sat, 14 Mar 2020 16:11:29 +0100</pubDate>
+      
+      <guid>https://mnarecki.github.io/contact/</guid>
+      <description>Find me  email / Delta Chat: michal@narecki.pl ProtonMail: michal.narecki@pm.me Telegram Jami: michaln Mastodon Twitter  vCard </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://mnarecki.github.io/about-me/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnarecki.github.io/about-me/</guid>
+      <description>English teacher by profession, computer expert by passion. I&amp;rsquo;m an advocate and user of open source software. I firmly believe in lifelong learning. That&amp;rsquo;s why I read books on different topics: from history to astrophysics.
+Employment The John Paul II Catholic University of Lublin (10.2009 - present) Teacher of English / IT
+ English classes (General, Business English, English for IT) Information Technology classes Web Design classes (HTML, CSS, WordPress)   Education The John Paul II Catholic University of Lublin (2010 - 2012) Computer science, postgraduate</description>
+    </item>
+    
+  </channel>
+</rss>
